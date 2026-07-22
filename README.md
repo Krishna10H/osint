@@ -1,0 +1,2 @@
+# osint
+educational purpose only
